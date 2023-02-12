@@ -4,7 +4,7 @@
     "paragraph": "Réduisez votre facture d'électricité jusqu'à 50%. Installateurs RGE. Garantie pièces et main d'oeuvre."
   },
   "About": {
-    "paragraph": "Convaincu de l’importance des énergies renouvelables et de l’efficacité énergétique pour relever le défi du changement climatique, l'entreprise HERVE KRIST a fait de la rénovation énergétique globale son cœur de métier. Notre objectif : transformer en profondeur notre modèle énergétique basé sur la consommation d’énergies fossiles pour un modèle plus propre et plus durable.",
+    "paragraph": "Convaincu de l’importance des énergies renouvelables et de l’efficacité énergétique pour relever le défi du changement climatique, l'entreprise KRIST PHOTOVOLTAIQUE a fait de la rénovation énergétique globale son cœur de métier. Notre objectif : transformer en profondeur notre modèle énergétique basé sur la consommation d’énergies fossiles pour un modèle plus propre et plus durable.",
     "Why": [
       "Des professionnels RGE",
       "Des produits de haute qualité",
@@ -65,24 +65,9 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-sun",
       "name": "Centrale photovoltaïque",
-      "text": "Jusqu'à 70% d'économies sur votre facture d'électricité."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Pompe à chaleur Air/Eau",
-      "text": "Jusqu'à 60% d'économies sur votre chauffage."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Chauffe-eau thermodynamique",
-      "text": "Divisez par 3 votre facture d'eau chaude sanitaire."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Isolation Thermique par l'Extérieur",
-      "text": "Jusqu'à 25% d'économies sur votre chauffage."
+      "text": "Jusqu'à 50% d'économies sur votre facture d'électricité."
     }
   ],
   "Testimonials": [
@@ -142,10 +127,12 @@
   "Contact": {
     "address": "2 avenue du Gal De Gaulle 17205 Royan Cedex ",
     "phone": "05 46 39 56 56",
-    "email": "info@company.com",
-    "facebook": "https://www.facebook.com/",
+    "email": "hkdistribution.enr@gmail.com ",
+    "facebook": "https://www.youtube.com/channel/UCT7dkvZ991_Iw3D3FK98VuQ",
     "twitter": "https://twitter.com/home?lang=fr",
-    "youtube": "https://www.youtube.com/"
+    "instagram": "https://www.instagram.com/kristphotovoltaique/",
+    "tiktok": "https://www.tiktok.com/@kristphotovoltaique?lang=fr",
+    "youtube": "https://www.youtube.com/channel/UCT7dkvZ991_Iw3D3FK98VuQ"
   },
   "Features": [
     {
@@ -168,29 +155,27 @@
       "title": "Produire votre eau chaude",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
-      ],
-      "Blog": [
-        {
-          "index":1,
-          "img": "img/blog/sshot-1.png",
-          "lien": "https://jds-bloghk.vercel.app/"
-          
-        },
-        {
-          "index":2,
-          "img": "img/blog/sshot-2.png",
-          "lien": "https://jds-bloghk.vercel.app/"
-        },
-        {
-          "index":3,
-          "img": "img/blog/sshot-3.png",
-          "lien": "https://jds-bloghk.vercel.app/"
-        },
-        {
-          "index":4,
-          "img": "img/blog/sshot-4.png",
-          "lien": "https://jds-bloghk.vercel.app/"
-        }
-      ]
-
+  ],
+  "Blog": [
+    {
+      "index": 1,
+      "img": "img/blog/sshot-1.png",
+      "lien": "https://jds-bloghk.vercel.app/"
+    },
+    {
+      "index": 2,
+      "img": "img/blog/sshot-2.png",
+      "lien": "https://jds-bloghk.vercel.app/"
+    },
+    {
+      "index": 3,
+      "img": "img/blog/sshot-3.png",
+      "lien": "https://jds-bloghk.vercel.app/"
+    },
+    {
+      "index": 4,
+      "img": "img/blog/sshot-4.png",
+      "lien": "https://jds-bloghk.vercel.app/"
+    }
+  ]
 }

@@ -131,13 +131,19 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    {/* <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-facebook"></i>
+                    </a> */}
+                    <a href={props.data ? props.data.instagram : "/"}>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                    {/* <a href={props.data ? props.data.twitter : "/"}>
+                      <i className="fa fa-twitter"></i>                      
+                    </a> */}
+                    <a href={props.data ? props.data.tiktok : "/"}>
+                      <i class="fa  fa-tiktok"></i>
                     </a>
                   </li>
                   <li>
@@ -153,7 +159,7 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>&copy; 2022 HERVE KRIST ENTREPRISE</p>
+          <p>&copy; 2022 KRIST PHOTOVOLTAIQUE</p>
         </div>
       </div>
     </div>

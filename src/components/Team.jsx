@@ -5,9 +5,9 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Notre équipe</h2>
           <p>
-            L'entreprise HERVE KRIST est composée d’une équipe dynamique,
-            engagée, et expérimentée. Notre réussite et nos objectifs sont
-            collectifs ! Solidaires et engagés pour la protection de
+            L'entreprise KRIST PHOTOVOLTAIQUE est composée d’une équipe
+            dynamique, engagée, et expérimentée. Notre réussite et nos objectifs
+            sont collectifs ! Solidaires et engagés pour la protection de
             l’environnement, nous sommes animés par une même mission :
             démocratiser la transition énergétique.
           </p>
